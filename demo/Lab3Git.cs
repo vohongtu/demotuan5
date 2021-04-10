@@ -7,5 +7,6 @@ namespace demo
 {
     public class Lab3Git
     {
+        private void vuaphaan123() { }
     }
 }
